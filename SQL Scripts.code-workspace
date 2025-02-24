@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../SQL Scripts"
+		},
+		{
+			"path": "../../Desktop/JS-Basics"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS-Basics"
+	}
+}
