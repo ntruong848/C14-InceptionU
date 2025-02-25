@@ -6,6 +6,10 @@
 		{
 			"name": "testrepo",
 			"path": "testrepo"
+		},
+		{
+			"name": "project1_testrepo",
+			"path": "project1_testrepo"
 		}
 	],
 	"settings": {}
